@@ -1,0 +1,20 @@
+{
+  "name": "lego-tatooine",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "gsap": "^3.12.2",
+    "lil-gui": "^0.18.1",
+    "three": "^0.153.0",
+    "vercel": "^32.1.0"
+  }
+}
