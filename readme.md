@@ -14,7 +14,7 @@ npm run dev
 npm run build
 ```
 
-Project Link [verecel-wave-shaders](https://tatooine.vercel.app/)
+Project Link [verecel-tatooine](https://tatooine.vercel.app/)
 
 https://github.com/mesqme/lego-tatooine/assets/33297177/11372e81-d334-42a2-bd73-890e06ad723b
 
